@@ -1,8 +1,12 @@
 <apex:page standardController="Account">
-  <!-- Begin Default Content REMOVE THIS -->
+
   <h1>Congratulations</h1>
 I have modified my page here...
 Modified by dhanalakshmi 1st time
+
 Modified bh dhana 423
-  <!-- End Default Content REMOVE THIS -->
+
+Modified by supriya 123
+
+ 
 </apex:page>
