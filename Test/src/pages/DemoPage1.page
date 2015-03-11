@@ -5,6 +5,6 @@
   Your Accont :
   <apex:outputField value="{!Account.Name}"/>
   <apex:outputField value="{!Account.Phone}"/>
-  Modified by dhanalakshmi
+  Modified by dhanalakshmi 3/11/2015
   </apex:form>
 </apex:page>
